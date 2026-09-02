@@ -1,83 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hey,%20I'm%20Manish%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Manish%20M%20P&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20%2B%20ML%20Developer&descAlignY=60&descSize=16" width="100%"/>
 
 <a href="https://github.com/manishkshtriya">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=560&lines=Information+Science+%26+Engineering+Student;Full-Stack+%2B+ML+Developer;Building+Agentic+AI+Systems;Open+to+Fresher+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&width=580&lines=Information+Science+%26+Engineering+%E2%80%A2+NMAMIT;Computer+Vision+Research+Intern+%E2%80%94+NITK;Building+AHEAD%2C+an+agentic+AI+system;Open+to+Fresher+SDE+Roles" alt="Typing SVG" />
 </a>
 
 <p>
-  <a href="mailto:manishkshtyriya333@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/manishkshtriya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:manishkshtyriya333@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/manishkshtriya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
+
+<sub><a href="#about">About</a> &nbsp;•&nbsp; <a href="#skills">Skills</a> &nbsp;•&nbsp; <a href="#work">Work</a> &nbsp;•&nbsp; <a href="#stats">Stats</a> &nbsp;•&nbsp; <a href="#trophies">Trophies</a> &nbsp;•&nbsp; <a href="#contact">Contact</a></sub>
 
 </div>
 
 <br/>
 
-### 🧭 About Me
+<h3 id="about">👋 About</h3>
 
 ```yaml
 name: Manish M P
-role: Final-Year B.Tech Student — Information Science & Engineering
+role: Final-Year B.Tech — Information Science & Engineering
 college: NMAM Institute of Technology (NMAMIT), Nitte
-currently_building: AHEAD — an agentic AI system for early academic-risk prediction
+building: AHEAD — agentic AI for early academic-risk prediction
 research: Computer Vision Intern @ NITK Surathkal (PyTorch, YOLOv8, OpenCV)
 looking_for: Fresher SDE roles
-fun_fact: Also designs and pilots RC aircraft ✈️
+off_duty: designs and pilots RC aircraft ✈️
 ```
 
 <br/>
 
-### 🧰 Tech Stack
+<h3 id="skills">🧠 Skills</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,fastapi,mongodb,postgres,mysql,git,github,vscode,postman,opencv,pytorch,threejs&theme=dark" />
 </p>
 
 <br/>
 
-### 🚀 What I'm Building
+<h3 id="work">💼 Selected Work</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 AHEAD</h4>
-      <i>Autonomous Human Early-Failure Anticipation & Direction System</i><br/><br/>
-      Agentic pipeline — <b>Observe → Predict → Plan → Act → Evaluate → Repeat</b> — for early academic-risk prediction and personalised student guidance, with Random Forest–based risk classification and live mentor/student dashboards.<br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 Dave 3D</h4>
-      A 3D platformer with <b>replay-verified anti-cheat leaderboards</b> — every top score can be replayed and validated frame-by-frame.<br/><br/>
-      <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📚 EduBoard</h4>
-      Full-stack MERN e-learning platform — <b>28 REST endpoints</b> across 7 route modules, JWT auth, role-based access, course + enrollment management. Hardened with Helmet, rate limiting, and Mongo sanitization.<br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎫 Smart ITSM</h4>
-      IT service-management platform — <b>18+ REST endpoints</b> for ticket creation, assignment, and priority tracking, role-based dashboards, validated with 25+ functional/API tests.<br/><br/>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h4>✨ StoryForge</h4>
-      A dark, cinematic AI story generator with an animated particle canvas — deployed live on Vercel.<br/><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| **AHEAD** | Agentic pipeline — Observe → Predict → Plan → Act → Evaluate → Repeat — for early academic-risk prediction, with Random Forest scoring and live dashboards | FastAPI · React · Scikit-learn |
+| **Dave 3D** | 3D platformer with replay-verified anti-cheat leaderboards | React Three Fiber · TypeScript · Neon Postgres |
+| **EduBoard** | MERN e-learning platform — 28 REST endpoints, JWT auth, role-based access | React · Node · MongoDB |
+| **Smart ITSM** | IT service-management platform — 18+ endpoints, ticket workflows, role dashboards | React · Node · MongoDB |
+| **StoryForge** | Dark, cinematic AI story generator with an animated particle canvas | Vite · React · Claude API |
 
 <br/>
 
-### 📈 GitHub Stats
+<h3 id="stats">📊 Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manishkshtriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -90,22 +65,22 @@ fun_fact: Also designs and pilots RC aircraft ✈️
 
 <br/>
 
-### 🏆 Trophies
+<h3 id="trophies">🏆 Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishkshtriya&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manishkshtriya&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
 
+<h3 id="contact">✉️ Contact</h3>
+
 <div align="center">
 
-### 📬 Let's Connect
-
-manishkshtyriya333@gmail.com · [github.com/manishkshtriya](https://github.com/manishkshtriya)
+manishkshtyriya333@gmail.com &nbsp;•&nbsp; [github.com/manishkshtriya](https://github.com/manishkshtriya)
 
 <img src="https://komarev.com/ghpvc/?username=manishkshtriya&label=Profile%20Views&color=2563eb&style=flat" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%"/>
 
 </div>
