@@ -1,169 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:2563eb&height=200&section=header&text=Hi%2C%20I'm%20Manish%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Final-Year%20ISE%20Student&descAlignY=58&descSize=16&descColor=93C5FD" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:2563eb&height=190&section=header&text=Manish%20M%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full-Stack%20%2B%20Applied%20AI%2FML&descAlignY=62&descSize=17&descColor=BFDBFE" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=93C5FD&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;Computer+Vision+Research+Intern+%40+NITK+Surathkal;MERN+Full-Stack+Developer;Shipping+Real-Time+ML+Products;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
+<p>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Final--Year-B.Tech%20ISE-1e3a5f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Graduating-2027-0f172a?style=for-the-badge" />
+</p>
 
-<br/>
-
-[![Gmail](https://img.shields.io/badge/manishkshtriya333%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkshtriya333@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishmp)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manishkshtriya)
-
-<img src="https://komarev.com/ghpvc/?username=manishkshtriya&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-
-</div>
-
-<br/>
-
-## 👋 About Me
-
-```yaml
-name:          Manish M P
-role:          Final-Year B.Tech — Information Science & Engineering
-college:       NMAM Institute of Technology (NMAMIT), Nitte, Karnataka
-graduating:    2027
-
-current_research:
-  org:         National Institute of Technology Karnataka (NITK), Surathkal
-  focus:       Computer Vision — image classification, object detection
-  stack:       [PyTorch, OpenCV, YOLOv8, MediaPipe]
-
-currently_building:
-  - "AHEAD — agentic AI system for early academic-risk prediction"
-  - "Real-time object detection web app (YOLOv8 + FastAPI + React) — in progress"
-
-looking_for:   Fresher SDE / AI Engineer roles — full-stack + applied ML
-off_duty:      "designs and pilots RC aircraft ✈️  |  tinkers with embedded systems"
-```
-
-<br/>
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
-
-**Frontend & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,css&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" />
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render&theme=dark" />
+[![Email](https://img.shields.io/badge/Email-manishkshtriya333%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manishkshtriya333@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manishmp-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishmp)
+[![GitHub](https://img.shields.io/badge/GitHub-manishkshtriya-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manishkshtriya)
 
 </div>
 
 <br/>
 
-## 💼 Selected Work
+## Summary
 
-<table>
-<tr>
-<td width="50%">
+Final-year Information Science & Engineering student at NMAM Institute of Technology (NMAMIT), building full-stack applications and applied machine learning systems. Currently a Computer Vision Research Intern at NITK Surathkal, working on deep learning pipelines for image classification and object detection. Comfortable across the stack — from REST API design and database architecture to model training, evaluation, and deployment. Seeking full-time Software Engineer / AI Engineer roles where I can build production systems end to end.
 
-### 🎯 AHEAD
-**Agentic AI Academic Risk Prediction System**
+<br/>
 
-6-stage agentic workflow (Observe → Predict → Plan → Act → Evaluate → Repeat) for early academic-risk detection, with Random Forest classification, automated alerts, and role-based student/mentor dashboards. 18-page technical documentation delivered.
+## Highlights
+
+- Architected **AHEAD**, a 6-stage agentic AI pipeline for early academic-risk prediction, from problem definition through model deployment and dashboarding — presented to faculty reviewers as a 3-person project lead
+- Built and shipped **28 RESTful API endpoints** across 7 route modules and 6 data models for a production-style MERN e-learning platform (EduBoard), with enterprise-grade security (JWT, bcrypt, rate limiting, input sanitization)
+- Researching computer vision pipelines (YOLOv8, OpenCV, transfer learning) at **NITK Surathkal**, benchmarked on Precision, Recall, F1-Score, and mAP
+- Currently building and deploying a real-time object detection web application end-to-end — model inference, API, frontend, and cloud deployment
+
+<br/>
+
+## Experience
+
+**Research Intern** — National Institute of Technology Karnataka (NITK), Surathkal
+`Jun 2026 – Present` · Mangaluru, Karnataka
+
+- Researching and implementing computer vision solutions using Python, PyTorch, OpenCV, YOLOv8, and MediaPipe for image classification, object detection, and real-world vision applications
+- Building and optimizing deep learning pipelines through transfer learning, data augmentation, and hyperparameter tuning
+- Evaluating model architectures against latency/accuracy trade-offs to select deployment-ready configurations
+
+<br/>
+
+## Featured Projects
+
+### AHEAD — Agentic AI Academic Risk Prediction System
+Major project · 2026
+
+A 6-stage agentic workflow (Observe → Predict → Plan → Act → Evaluate → Repeat) for early academic-risk detection. Implements Random Forest-based classification, automated alerting, and role-based dashboards for students and mentors. Delivered with an 18-page technical documentation report.
 
 `FastAPI` `React` `MongoDB` `Scikit-learn`
 
-</td>
-<td width="50%">
+---
 
-### 🎥 Real-Time Object Detection
-**Deployed Computer Vision Web App** · *in progress*
+### Real-Time Object Detection Web App
+In progress · Target Dec 2026
 
-Browser-based live object detection — webcam feed → real-time bounding boxes with a confidence-score dashboard — extending CV research from the NITK internship into a production-facing product.
+A deployed, browser-based live object detection system — webcam feed processed through a YOLOv8 model, rendered as real-time bounding boxes with confidence scoring and event logging. Backend inference on Render, frontend on Vercel. Extends the computer vision research from the NITK internship into a shipped product.
 
 `YOLOv8` `OpenCV` `FastAPI` `React`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
-### ✨ StoryForge
-**AI-Powered Story Generator**
+### StoryForge — AI-Powered Story Generator
+[Repository](https://github.com/manishkshtriya) · 2026
 
-AI story-generation app with prompt engineering to steer tone, structure, and narrative continuity across generated chapters, wrapped in a dark, cinematic particle-canvas UI.
+An AI story-generation web application using prompt engineering to steer tone, structure, and narrative continuity across generated chapters, with a custom dark, cinematic UI built around an animated particle canvas.
 
 `Vite` `React` `Claude API`
 
-</td>
-<td width="50%">
+---
 
-### 📚 EduBoard
-**Full-Stack MERN Learning Platform**
+### EduBoard — Full-Stack MERN Learning Platform
+[Repository](https://github.com/manishkshtriya/Eduboard) · 2026
 
-E-learning platform with 28 RESTful API endpoints across 7 route modules and 6 MongoDB models — JWT auth, role-based access, enrollments, reviews. Deployed on Vercel + Render + MongoDB Atlas.
+A full-stack e-learning platform with 28 RESTful API endpoints across 7 Express route modules and 6 MongoDB models, covering authentication, course management, enrollments, reviews, and pricing plans. Implements JWT auth, bcrypt, Helmet, CORS, rate limiting, and MongoDB sanitization, deployed on Vercel, Render, and MongoDB Atlas.
 
 `React` `Node.js` `Express` `MongoDB`
 
-</td>
-</tr>
-</table>
+<br/>
+
+## Technical Skills
+
+| Category | Stack |
+|---|---|
+| **Languages** | Python, JavaScript, SQL |
+| **Frontend / Backend** | React.js, Node.js, Express.js, FastAPI |
+| **AI / ML** | PyTorch, Scikit-learn, OpenCV, YOLOv8, Pandas, NumPy |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **Core CS** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+| **Tools** | Git, GitHub, Postman, VS Code |
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manishkshtriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkshtriya&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manishkshtriya&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=1e3a5f&icon_color=2563eb&text_color=333333" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manishkshtriya&hide_border=true&background=FFFFFF&stroke=1e3a5f&ring=2563eb&fire=2563eb&currStreakLabel=1e3a5f" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkshtriya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkshtriya&theme=tokyo-night&hide_border=true" width="90%"/>
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manishkshtriya&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkshtriya&theme=minimal&hide_border=true&color=1e3a5f&line=2563eb&point=0f172a" width="90%"/>
 </div>
 
 <br/>
 
-## 🎯 Currently
+## Education
 
-<div align="center">
+**NMAM Institute of Technology (NMAMIT)** — B.Tech, Information Science & Engineering
+`2023 – 2027` · Nitte, Karnataka
 
-| 🔭 Building | 🌱 Learning | 🎯 Targeting | ⚡ Fun Fact |
-|---|---|---|---|
-| Real-time CV detection app | AWS Cloud fundamentals | Fresher SDE / AI Engineer roles | Builds & pilots RC aircraft ✈️ |
-
-</div>
+Coursework: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, REST API Design
 
 <br/>
 
 <div align="center">
 
-### ✉️ Let's Connect
+## Contact
 
-manishkshtriya333@gmail.com • [github.com/manishkshtriya](https://github.com/manishkshtriya) • [linkedin.com/in/manishmp](https://www.linkedin.com/in/manishmp)
+manishkshtriya333@gmail.com  ·  [linkedin.com/in/manishmp](https://www.linkedin.com/in/manishmp)  ·  [github.com/manishkshtriya](https://github.com/manishkshtriya)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=manishkshtriya&label=Profile%20Views&color=1e3a5f&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%"/>
 
 </div>
