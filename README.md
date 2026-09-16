@@ -18,7 +18,7 @@
 
 ## Summary
 
-Final-year Information Science & Engineering student at NMAM Institute of Technology (NMAMIT), building full-stack applications and applied machine learning systems. Currently a Computer Vision Research Intern at NITK Surathkal, working on deep learning pipelines for image classification and object detection. Comfortable across the stack — from REST API design and database architecture to model training, evaluation, and deployment. Seeking full-time Software Engineer / AI Engineer roles where I can build production systems end to end.
+Final-year Information Science & Engineering student at NMAM Institute of Technology (NMAMIT), building full-stack applications and applied machine learning systems. Currently a Computer Vision Research Intern at NITK Surathkal, working on deep learning pipelines for image classification and object detection. Comfortable across the stack — from REST API design and database architecture to model training, evaluation, and deployment, and native mobile. Seeking full-time Software Engineer / AI Engineer roles where I can build production systems end to end.
 
 <br/>
 
@@ -26,6 +26,7 @@ Final-year Information Science & Engineering student at NMAM Institute of Techno
 
 - Architected **AHEAD**, a 6-stage agentic AI pipeline for early academic-risk prediction, from problem definition through model deployment and dashboarding — presented to faculty reviewers as a 3-person project lead
 - Built and shipped **28 RESTful API endpoints** across 7 route modules and 6 data models for a production-style MERN e-learning platform (EduBoard), with enterprise-grade security (JWT, bcrypt, rate limiting, input sanitization)
+- Shipped **UPI MDR Tracker**, a full-stack web app *and* a native Android app sharing one fee-calculation engine, modeling India's Oct 2026 NPCI merchant-charge framework and validated against official reference figures
 - Researching computer vision pipelines (YOLOv8, OpenCV, transfer learning) at **NITK Surathkal**, benchmarked on Precision, Recall, F1-Score, and mAP
 - Currently building and deploying a real-time object detection web application end-to-end — model inference, API, frontend, and cloud deployment
 
@@ -49,16 +50,25 @@ Major project · 2026
 
 A 6-stage agentic workflow (Observe → Predict → Plan → Act → Evaluate → Repeat) for early academic-risk detection. Implements Random Forest-based classification, automated alerting, and role-based dashboards for students and mentors. Delivered with an 18-page technical documentation report.
 
-`FastAPI` `React` `MongoDB` `Scikit-learn`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 ---
 
-### Real-Time Object Detection Web App
-In progress · Target Dec 2026
+### EduBoard — Full-Stack MERN Learning Platform
+[Repository](https://github.com/manishkshtriya/Eduboard) · Live · 2026
 
-A deployed, browser-based live object detection system — webcam feed processed through a YOLOv8 model, rendered as real-time bounding boxes with confidence scoring and event logging. Backend inference on Render, frontend on Vercel. Extends the computer vision research from the NITK internship into a shipped product.
+A full-stack e-learning platform with 28 RESTful API endpoints across 7 Express route modules and 6 MongoDB models, covering authentication, course management, enrollments, reviews, and pricing plans. Implements JWT auth, bcrypt, Helmet, CORS, rate limiting, and MongoDB sanitization, deployed on Vercel, Render, and MongoDB Atlas.
 
-`YOLOv8` `OpenCV` `FastAPI` `React`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+---
+
+### UPI MDR Tracker — Full-Stack + Native Android Fee Calculator
+[Repository](https://github.com/manishkshtriya/upi-mdr-tracker-android) · 2026
+
+Built to make sense of India's revised UPI merchant-fee framework (effective Oct 2026) the same day it was announced. A MERN web app and a native Android app (Kotlin, Jetpack Compose, Room) share one calculation engine — modeling tiered rates, a rolling monthly small-merchant exemption, and sector-specific flat/percentage fees — with output unit-tested against official NPCI reference figures on both platforms.
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 ---
 
@@ -67,16 +77,16 @@ A deployed, browser-based live object detection system — webcam feed processed
 
 An AI story-generation web application using prompt engineering to steer tone, structure, and narrative continuity across generated chapters, with a custom dark, cinematic UI built around an animated particle canvas.
 
-`Vite` `React` `Claude API`
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square"/>
 
 ---
 
-### EduBoard — Full-Stack MERN Learning Platform
-[Repository](https://github.com/manishkshtriya/Eduboard) · 2026
+### Real-Time Object Detection Web App
+In progress · Target Dec 2026
 
-A full-stack e-learning platform with 28 RESTful API endpoints across 7 Express route modules and 6 MongoDB models, covering authentication, course management, enrollments, reviews, and pricing plans. Implements JWT auth, bcrypt, Helmet, CORS, rate limiting, and MongoDB sanitization, deployed on Vercel, Render, and MongoDB Atlas.
+A deployed, browser-based live object detection system — webcam feed processed through a YOLOv8 model, rendered as real-time bounding boxes with confidence scoring and event logging. Backend inference on Render, frontend on Vercel. Extends the computer vision research from the NITK internship into a shipped product.
 
-`React` `Node.js` `Express` `MongoDB`
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 <br/>
 
@@ -84,8 +94,9 @@ A full-stack e-learning platform with 28 RESTful API endpoints across 7 Express 
 
 | Category | Stack |
 |---|---|
-| **Languages** | Python, JavaScript, SQL |
+| **Languages** | Python, JavaScript, Kotlin, SQL |
 | **Frontend / Backend** | React.js, Node.js, Express.js, FastAPI |
+| **Mobile** | Kotlin, Jetpack Compose, Room |
 | **AI / ML** | PyTorch, Scikit-learn, OpenCV, YOLOv8, Pandas, NumPy |
 | **Databases** | MongoDB, MySQL, PostgreSQL |
 | **Core CS** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
